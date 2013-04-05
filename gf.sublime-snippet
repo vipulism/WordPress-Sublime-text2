@@ -2,6 +2,7 @@
 	<content><![CDATA[
 <?php get_footer(); ?> 
 ]]></content>
+	<description>Get Footer</description>
 	<tabTrigger>gf</tabTrigger>
 	<scope>source.php</scope>
 </snippet>
