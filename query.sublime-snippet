@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+	<?php the_content(); ?>
+<?php endwhile; endif; ?>
+]]></content>
+	<description>Get QueryPost</description>
+	<tabTrigger>query</tabTrigger>
+	<scope>source.php</scope>
+</snippet
