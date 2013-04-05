@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<?php get_sidebar(); ?>
+]]></content>
+	<description>Get Sidebar</description>
+	<tabTrigger>gs</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
