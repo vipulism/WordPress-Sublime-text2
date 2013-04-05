@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<?php wp_nav_menu(array('menu' => 'Main Menu')); ?>
+]]></content>
+	<description>Get Menu</description>
+	<tabTrigger>menu</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
