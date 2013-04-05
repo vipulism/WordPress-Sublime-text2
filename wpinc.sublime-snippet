@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<?php include (TEMPLATEPATH . '/${1}'); ?>
+]]></content>
+	<description>Get WP Include</description>
+	<tabTrigger>wpinc</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
