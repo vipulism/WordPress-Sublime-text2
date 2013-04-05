@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<?php bloginfo('template_directory'); ?>/${1}
+]]></content>
+	<description>Get Template Directory</description>
+	<tabTrigger>td</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
