@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<?php wp_reset_query(); ?>
+]]></content>
+	<description>Get WpReset</description>
+	<tabTrigger>reset</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
