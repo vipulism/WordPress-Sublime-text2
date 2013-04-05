@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<?php get_header(); ?>
+]]></content>
+	<description>Get Header</description>
+	<tabTrigger>gh</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
