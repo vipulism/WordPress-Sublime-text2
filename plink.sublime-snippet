@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<?php the_permalink(); ?>
+]]></content>
+	<description>Get Permalink</description>
+	<tabTrigger>plink</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
